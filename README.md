@@ -41,7 +41,7 @@ My background spans:
 
 -  📧 Email: asif.adil573@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/asif-adil-phd-790936b2/) 
-- 📝 [Google Scholar]([https://scholar.google.com](https://scholar.google.com/citations?hl=en&user=hjHjPPoAAAAJ)) 
+- 📝 [Google Scholar](https://scholar.google.com](https://scholar.google.com/citations?hl=en&user=hjHjPPoAAAAJ) 
 
 ---
 
