@@ -29,8 +29,8 @@ My background spans:
 
 ## 🛠️ Tools & Technologies
 
-**Languages**: Python (primary), R (basic), Markdown, LaTeX  
-**Libraries**: TensorFlow/Keras, scikit-learn, SHAP, TabPFN  
+**Languages**: Python (primary), R, LaTeX  
+**Libraries**: TensorFlow/Keras, scikit-learn
 **Bioinformatics**: Seurat, Scanpy, Squidpy, scVelo, Harmony, CellPhoneDB  
 **Visualization**: matplotlib, seaborn, plotly, ggplot2, Adobe Illustrator  
 **Platforms**: GitHub, Google Colab, VSCode, HPC clusters
