@@ -47,8 +47,6 @@ My background spans:
 ## 🌱 Fun Facts
 
 - I come from a computer science background and transitioned into cancer genomics without prior biology experience
-- I love turning high-dimensional omics data into clear visual narratives
-- Outside the lab, I enjoy helping students, mentoring, and engaging in faculty development
 
 ---
 
