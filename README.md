@@ -20,7 +20,7 @@ My background spans:
 ## 🧪 Current Projects
 
 - 🧠 **AI-based prediction of stem cell mobilization success** using baseline and post-G-CSF CBC data  
-- 🧭 **Attention aware models** to unify predictions across domains  
+- 🧭 **Attention aware neural networks** to unify predictions across domains  
 - 🧬 **Spatial transcriptomics analysis of pancreatic tumors** to uncover cell-type interactions and pathway activations  
 - 🧾 Contributing to multiple manuscripts and collaborative research on stem cell transplantation and cancer diagnostics
 
