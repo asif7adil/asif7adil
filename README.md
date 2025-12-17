@@ -52,3 +52,5 @@ My background spans:
 > *"Science isn't finished until it's communicated."* — Sir Mark Walport
 
 Thanks for visiting! ⭐️
+
+[![Asif's GitHub stats](https://github-readme-stats.vercel.app/api?username=asif7adil)](https://github.com/anuraghazra/github-readme-stats)
