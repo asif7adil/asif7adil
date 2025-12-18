@@ -54,4 +54,3 @@ My background spans:
 Thanks for visiting! ⭐️
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asif7adil&hide=javascript,html)
