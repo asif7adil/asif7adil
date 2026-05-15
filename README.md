@@ -11,9 +11,9 @@
 I'm a researcher working at the intersection of **Artificial Intelligence**, **Single-cell Transcriptomics**, and **Spatial Omics**, with a particular focus on **Hematologic Malignancies**. I specialize in building scalable AI tools and models to better understand tumor microenvironments and predict treatment outcomes.
 
 My background spans:
-- Deep learning model development (MLP, TabPFN, attention-based model building)
-- Spatial and single-cell transcriptomics analysis (Seurat, Scanpy, STUtility, Squidpy)
-- Cancer biology interpretation with zero formal background in biology 😄
+- Deep learning model development
+- Spatial and single-cell transcriptomics analysis
+- Cancer biology interpretation with zero formal background in biology
 
 ---
 
