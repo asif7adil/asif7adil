@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Asif Adil
 
-🎓 Postdoctoral Fellow @ Indiana University–Purdue University Indianapolis  
+🎓 Postdoctoral Research Fellow @ Indiana University–Purdue University Indianapolis  
 🔬 Computational Biologist | AI Researcher | Cancer Genomics Enthusiast  
 🌎 Passionate about decoding cancer through data-driven methods
 
