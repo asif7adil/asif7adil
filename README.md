@@ -12,8 +12,9 @@ I'm a researcher working at the intersection of **Artificial Intelligence**, **S
 
 My background spans:
 - Deep learning model development
-- Spatial and single-cell transcriptomics analysis
 - Computational Hematology
+- Spatial and single-cell transcriptomics analysis
+
 
 
 ---
